@@ -1,6 +1,6 @@
 # Divyam Banga
 
-Building things with AI and data. Engineering @ Waterloo, building 24/7.
+AI and data. Engineering @ Waterloo, building 24/7.
 
 ---
 
