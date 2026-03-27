@@ -1,5 +1,6 @@
 # Divyam Banga
 
+SWE @ PiinPoint (YC 14)
 AI and data. Engineering @ Waterloo, Building 24/7.
 
 ---
