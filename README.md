@@ -12,7 +12,7 @@ AI and data. Engineering @ Waterloo, Building 24/7.
 - 📈 **[AlphaRing](https://github.com/DivyamBanga/alpharing)**: English to algorithm, Quant trading platform
 - 🎥 Documenting the journey on **[youtube.com/@divcodez](https://youtube.com/@divcodez)**
 
-4x hackathon winner · countless projects · one slightly stealth startup
+5x hackathon winner · countless projects · one slightly stealth startup
 
 ---
 
