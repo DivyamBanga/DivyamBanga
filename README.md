@@ -1,6 +1,6 @@
 # Divyam Banga
 SWE @ PiinPoint (YC W14)  
-AI and data. Engineering @ Waterloo, Building 24/7.
+AI and data. Engineering @ Waterloo. Building 24/7.
 ---
 #### Currently
 - 🗺️ **[Cartograph](https://github.com/DivyamBanga/cartograph)**: Autonomous codebase intelligence engine
